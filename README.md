@@ -56,16 +56,18 @@
 
 <h2 align="left">📫 Contact:</h2>
 
-###
-
 <div align="center">
-  <a href="www.linkedin.com/in/fawzan-shaikh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/fawzan-shaikh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="fawzanshaikh22@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
+  <a href="mailto:fawzanshaikh22@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52" height="40" alt="Gmail logo" />
   </a>
 </div>
+
 
 ###
 
