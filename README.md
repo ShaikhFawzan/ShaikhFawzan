@@ -51,20 +51,28 @@ with a strong interest in software development, data analysis, and building prac
 
 <h2 align="left">📂 Featured Projects</h2>
 
+<h3 align="center">🔗 Project Repositories</h3>
+
 <div align="center">
 
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
-  </a>
-  <p><strong>Sales Performance Analysis (SQL)</strong><br>
-  Data analysis project exploring revenue, customers, and country-level sales.</p>
+  <p>
+    <a href="https://github.com/YOUR_USERNAME/YOUR_SQL_REPO">
+      <strong>Sales Performance Analysis (SQL)</strong>
+    </a>
+  </p> Data analysis project exploring revenue, customers, and country-level sales </P>
 
   <br>
 
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   </a>
-  <p><strong>Java Application</strong><br>
+ <p>
+    <a href="https://github.com/YOUR_USERNAME/YOUR_JAVA_REPO">
+      <strong>Java Application</strong>
+    </a>
+  </p>
   Coming Soon !!!!</p>
 
   <br>
@@ -72,49 +80,12 @@ with a strong interest in software development, data analysis, and building prac
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   </a>
-  <p><strong>EDA (Exploratory Data Analysis) using Python </strong><br>
-  importing, cleaning, analysing, and visulization of a dataset</p>
-
-</div>
-
-<p align="center">
-More projects and details can be found in my repositories below ⬇️
-</p>
-
-<h3 align="center">🔗 Project Repositories</h3>
-
-<div align="center">
-
-  <a href="https://github.com/YOUR_USERNAME/YOUR_SQL_REPO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" />
-  </a>
-  <p>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_SQL_REPO">
-      <strong>Sales Performance Analysis (SQL)</strong>
-    </a>
-  </p>
-
-  <br>
-
-  <a href="https://github.com/YOUR_USERNAME/YOUR_JAVA_REPO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
-  </a>
-  <p>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_JAVA_REPO">
-      <strong>Java Application (COMING SOON !!!)</strong>
-    </a>
-  </p>
-
-  <br>
-
-  <a href="https://github.com/YOUR_USERNAME/YOUR_PYTHON_REPO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
-  </a>
   <p>
     <a href="https://github.com/YOUR_USERNAME/YOUR_PYTHON_REPO">
       <strong>EDA (Exploratory Data Analysis) using Python</strong>
     </a>
   </p>
+  importing, cleaning, analysing, and visulization of a dataset</p>
 
 </div>
 
