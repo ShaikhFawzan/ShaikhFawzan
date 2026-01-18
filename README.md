@@ -1,58 +1,87 @@
-<h1 align="left">Hey  👋  Nice to meet You!</h1>
+<h1 align="left">Hey 👋 Nice to meet you!</h1>
 
-###
+<p align="left">
+Welcome to my GitHub profile! <br>
+I'm <strong>Fawzan Shaikh</strong>, a Computer Science co-op student based in Canada.
+</p>
 
-<p align="left">Welcome to my Page!!<br>I'm Fawzan Shaikh, aspiring data scientist from Canada.</p>
+<hr>
 
-###
+<h2 align="left">📌 About Me</h2>
 
-<h2 align="left">📌 About me</h2>
+<p align="left">
+I'm a Computer Science co-op student at
+<a href="https://ontariotechu.ca/">Ontario Tech University</a>
+with a strong interest in software development, data analysis, and building practical, real-world projects.
+</p>
 
-###
+<hr>
 
-<p align="left">I'm a Computer Science co-op student at [Ontario Tech University](https://ontariotechu.ca/) with a strong interest in software development, data analysis, and building practical, real-world projects.</p>
+<h2 align="left">✨ What I'm Currently Doing</h2>
 
-###
+<p align="left">
+⚙️ Building and refining personal projects to strengthen my software engineering skills<br>
+🛠️ Practicing data structures and algorithms<br>
+📝 Preparing for software and data-focused internship roles
+</p>
 
-<h2 align="left">✨ What I'm currently doing</h2>
+<hr>
 
-###
-
-<p align="left">⚙️Building and refining personal projects to strengthen my software engineering skills  <br>🛠️Practicing data structures and algorithms  <br>📝 Preparing for software and data-focused internship roles</p>
-
-###
-
-<h2 align="left">👨‍💻 I code with:</h2>
-
-###
+<h2 align="left">👨‍💻 Technologies I Use</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
-###
+<hr>
 
-<h2 align="left">📂 My Projects:</h2>
+<h2 align="left">📂 Featured Projects</h2>
 
-###
+<div align="center">
 
-<p align="left">Here you'll find projects focused on:<br>- Data analysis using SQL <br>- Java and Python applications<br>- Coursework-inspired projects with real-world use cases</p>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+  </a>
+  <p><strong>Sales Performance Analysis (SQL)</strong><br>
+  Data analysis project exploring revenue, customers, and country-level sales.</p>
 
-###
+  <br>
+
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  </a>
+  <p><strong>Java Application</strong><br>
+  Coming Soon !!!!</p>
+
+  <br>
+
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  </a>
+  <p><strong>EDA (Exploratory Data Analysis) using Python </strong><br>
+  importing, cleaning, analysing, and visulization of a dataset</p>
+
+</div>
+
+<p align="center">
+More projects and details can be found in my repositories below ⬇️
+</p>
+
+<hr>
 
 <h2 align="left">📫 Contact:</h2>
 
@@ -68,11 +97,10 @@
   </a>
 </div>
 
+<hr>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt2NXR0Nmg1eWw0cjYzY2F3aG82azJ3ODRpZmYxNGlydGZkd2w3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 </div>
 
-###
+
