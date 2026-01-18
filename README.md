@@ -81,6 +81,43 @@ with a strong interest in software development, data analysis, and building prac
 More projects and details can be found in my repositories below ⬇️
 </p>
 
+<h3 align="center">🔗 Project Repositories</h3>
+
+<div align="center">
+
+  <a href="https://github.com/YOUR_USERNAME/YOUR_SQL_REPO">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" />
+  </a>
+  <p>
+    <a href="https://github.com/YOUR_USERNAME/YOUR_SQL_REPO">
+      <strong>Sales Performance Analysis (SQL)</strong>
+    </a>
+  </p>
+
+  <br>
+
+  <a href="https://github.com/YOUR_USERNAME/YOUR_JAVA_REPO">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
+  </a>
+  <p>
+    <a href="https://github.com/YOUR_USERNAME/YOUR_JAVA_REPO">
+      <strong>Java Application (COMING SOON !!!)</strong>
+    </a>
+  </p>
+
+  <br>
+
+  <a href="https://github.com/YOUR_USERNAME/YOUR_PYTHON_REPO">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
+  </a>
+  <p>
+    <a href="https://github.com/YOUR_USERNAME/YOUR_PYTHON_REPO">
+      <strong>EDA (Exploratory Data Analysis) using Python</strong>
+    </a>
+  </p>
+
+</div>
+
 <hr>
 
 <h2 align="left">📫 Contact:</h2>
