@@ -61,7 +61,7 @@ with a strong interest in software development, data analysis, and building prac
     <a href="https://github.com/YOUR_USERNAME/YOUR_SQL_REPO">
       <strong>Sales Performance Analysis (SQL)</strong>
     </a>
-  </p> Data analysis project exploring revenue, customers, and country-level sales </P>
+  </p> Data analysis project exploring revenue, customers, and country-level sales (Coming Soon) </P>
 
   <br>
 
@@ -81,11 +81,11 @@ with a strong interest in software development, data analysis, and building prac
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   </a>
   <p>
-    <a href="https://github.com/ShaikhFawzan/fitness-calorie-expenditure-analysis.git">
+    <a href="https://github.com/ShaikhFawzan/fitness-calorie-expenditure-analysis">
       <strong>EDA (Exploratory Data Analysis) using Python</strong>
     </a>
   </p>
-  importing, cleaning, analysing, and visulization of a dataset</p>
+  importing, cleaning, analysing, and visualization of a dataset</p>
 
 </div>
 
