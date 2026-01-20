@@ -81,7 +81,7 @@ with a strong interest in software development, data analysis, and building prac
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   </a>
   <p>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_PYTHON_REPO">
+    <a href="https://github.com/ShaikhFawzan/fitness-calorie-expenditure-analysis.git">
       <strong>EDA (Exploratory Data Analysis) using Python</strong>
     </a>
   </p>
