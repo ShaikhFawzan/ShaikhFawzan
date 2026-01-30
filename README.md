@@ -107,8 +107,4 @@ with a strong interest in software development, data analysis, and building prac
 
 <hr>
 
-  <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt2NXR0Nmg1eWw0cjYzY2F3aG82azJ3ODRpZmYxNGlydGZkd2w3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
-</div>
-
 
