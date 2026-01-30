@@ -58,10 +58,10 @@ with a strong interest in software development, data analysis, and building prac
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
   <p>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_SQL_REPO">
+    <a href="https://github.com/ShaikhFawzan/E-Commerce-Sales-Analysis-SQL">
       <strong>Sales Performance Analysis (SQL)</strong>
     </a>
-  </p> Data analysis project exploring revenue, customers, and country-level sales (Coming Soon) </P>
+  </p> Modular SQL/Python project exploring retail sales data. Features automated ETL, data cleaning via SQL Views, and analytical insights using CTEs and Window Functions </P>
 
   <br>
 
@@ -69,7 +69,7 @@ with a strong interest in software development, data analysis, and building prac
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   </a>
  <p>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_JAVA_REPO">
+    <a href="https://github.com/UpdateLater">
       <strong>Java Application</strong>
     </a>
   </p>
