@@ -2,7 +2,7 @@
 
 <p align="left">
 Welcome to my GitHub profile! <br>
-I'm <strong>Fawzan Shaikh</strong>, a Computer Science co-op student based in Canada.
+I'm <strong>Fawzan Shaikh</strong>, a Second year Computer Science co-op student based in Canada.
 </p>
 
 <hr>
@@ -10,7 +10,7 @@ I'm <strong>Fawzan Shaikh</strong>, a Computer Science co-op student based in Ca
 <h2 align="left">📌 About Me</h2>
 
 <p align="left">
-I'm a Computer Science co-op student at
+I study Computer Science at
 <a href="https://ontariotechu.ca/">Ontario Tech University</a>
 with a strong interest in software development, data analysis, and building practical, real-world projects.
 </p>
