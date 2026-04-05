@@ -75,11 +75,11 @@ with a strong interest in software development, data analysis, and building prac
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   </a>
  <p>
-    <a href="https://github.com/UpdateLater">
-      <strong>Java Application</strong>
+    <a href="https://github.com/ShaikhFawzan/Luxury-Watch-Catalogue-Web-App">
+      <strong>Java Watch Catalogue Web App</strong>
     </a>
   </p>
-  Coming Soon !!!!</p>
+  Some functionality and readme need to be completed. However project is over 90% finished, feel free to check it out.  !!!!</p>
 
   <br>
 
