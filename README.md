@@ -79,7 +79,7 @@ with a strong interest in software development, data analysis, and building prac
       <strong>Java Watch Catalogue Web App</strong>
     </a>
   </p>
-  Some functionality and readme need to be completed. However project is over 90% finished, feel free to check it out.  !!!!</p>
+  Some functionality and ReadMe need to be completed. However project is over 90% finished, feel free to check it out.  !!!!</p>
 
   <br>
 
