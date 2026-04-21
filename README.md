@@ -72,14 +72,13 @@ with a strong interest in software development, data analysis, and building prac
   <br>
 
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
  <p>
     <a href="https://github.com/ShaikhFawzan/Luxury-Watch-Catalogue-Web-App">
-      <strong>Java Watch Catalogue Web App</strong>
+      <strong>Python & Flask Watch Catalogue Web App</strong>
     </a>
   </p>
-  Some functionality and ReadMe need to be completed. However project is over 90% finished, feel free to check it out.  !!!!</p>
+  Still wrapping up some features, but its over 90% done feel free to check it out.  !!!!</p>
 
   <br>
 
